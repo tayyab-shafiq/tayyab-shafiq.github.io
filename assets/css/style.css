@@ -273,7 +273,7 @@ body {
   top: 65px;
   left: 0;
   width: 100%;
-  padding-inline: 20px;
+  padding-inline: 2px;
   visibility: hidden;
   opacity: 0;
   transition: var(--transition-2);
