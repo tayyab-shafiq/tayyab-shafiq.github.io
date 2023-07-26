@@ -761,11 +761,11 @@ textarea.contact-input {
 /**
  * responsive for larger than 600px screen
  */
- /*  @media (max-width: 767px) {
-  .portfolio-list  {
-    display: none; /* Hide the icons on mobile devices 
+ @media (max-width: 767px) {
+  .hero-content {
+       margin-top: -135px;  
   }
-} */
+}  
   
 
 @media (min-width: 600px) {
